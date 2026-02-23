@@ -1,0 +1,50 @@
+# 2715 - Dividindo os Trabalhos I
+
+**Categoria:** Iniciante
+**Assunto:** -
+**Nivel:** 7
+**Autor:** Por Diego Rangel, FACIT  Brazil
+**Timelimit: 1**
+
+---
+
+## Descricao
+
+Chegamos finalmente no final do semestre e pra variar, trabalhos estão acumulados! Os professores, com a intenção de ajudar (ou não), decidiram que os trabalhos será feitos em duplas, além disso, eles dariam o *spoiler* do grau de dificuldade que um trabalho tem para ser feito.
+
+
+Sabendo disso, Rangel, nosso velho amigo, escolheu Gugu como sua dupla, pois ele sabe que Gugu é um cara responsável. Como ambos estão apertados eles decidiram dividir os trabalhos com os seguintes critérios:
+
+
+- A ordem dos trabalhos não pode ser alterada durante a divisão;
+- A divisão precisa ser justa, ou seja, minimizar a diferença entre os trabalhos feitos por Rangel e por Gugu;
+- Rangel sempre faz os primeiros e trabalhos e Gugu o restante.
+
+Como os dois estão muito ocupados na biblioteca pegando os livros para resolverem os trabalhos, eles pediram a você para determinar a diferença.
+
+## Entrada
+
+O arquivo contém vários casos de teste. A primeira linha de cada caso contém um inteiro **N** (1 ≤ **N** ≤ 10^6) que indica o número de elementos da sequência, na segunda linha contém **N** inteiros onde cada inteiro possui um valor **X** (1 ≤ **X** ≤10^5).
+
+
+**A entrada termina com um EOF.**
+
+## Saida
+
+Para cada caso de teste, um inteiro **Y** deve ser impresso, onde **Y** é o valor da diferença ótima seguindo os critérios do problema. Deixe uma linha em branco após cada caso de teste, inclusive após o último.
+
+## Exemplo
+
+**Entrada:**
+```
+3
+2 3 5
+4
+1 2 2 6
+```
+
+**Saida:**
+```
+0
+1
+```
