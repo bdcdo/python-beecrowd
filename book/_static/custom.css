@@ -1,0 +1,12 @@
+.myst-home-link span {
+  font-size: 0;
+}
+.myst-home-link span::after {
+  content: "Introdução a Python com Beecrowd";
+  font-size: 1rem;
+}
+@media (min-width: 640px) {
+  .myst-home-link span::after {
+    font-size: 1.25rem;
+  }
+}

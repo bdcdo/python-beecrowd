@@ -1,12 +1,12 @@
 version: 1
 
 project:
-  title: Guia de Python com Beecrowd
-  authors:
-    - name: Bruno
+  title: Introdução a Python com Beecrowd
+  jupyter:
+    lite: true
   toc:
-    - file: intro.md
-    - file: como_usar.md
+    - file: intro.ipynb
+    - file: como_usar.ipynb
     - title: "M1 — Variáveis e Operações"
       children:
         - file: m1_variaveis_e_operacoes/conceitos_print_input.ipynb
@@ -24,4 +24,10 @@ project:
         - file: m3_listas_e_strings/exercicios.md
 
 site:
+  title: Introdução a Python com Beecrowd
   template: book-theme
+  options:
+    favicon: ""
+    style: ./_static/custom.css
+  parts:
+    primary_sidebar_footer: ""
