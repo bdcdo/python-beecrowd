@@ -1,4 +1,4 @@
-# M2 — Exercícios: Condicionais
+# Módulo 2 — Exercícios: Condicionais
 
 Pratique **condicionais, operadores lógicos e padrões de decisão** com 29 problemas do Beecrowd organizados por nível.
 

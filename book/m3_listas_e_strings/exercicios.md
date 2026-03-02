@@ -1,4 +1,4 @@
-# M3 — Exercícios: Listas e Strings
+# Módulo 3 — Exercícios: Listas e Strings
 
 Pratique **listas, indexação, busca, strings e manipulação de caracteres** com 18 problemas do Beecrowd organizados por nível.
 

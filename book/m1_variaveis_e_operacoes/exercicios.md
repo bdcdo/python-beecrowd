@@ -1,4 +1,4 @@
-# M1 — Exercícios: Variáveis e Operações
+# Módulo 1 — Exercícios: Variáveis e Operações
 
 Pratique os conceitos de **variáveis, entrada/saída, operações aritméticas e formatação** com 37 problemas do Beecrowd organizados por nível.
 
@@ -44,7 +44,11 @@ Prática com variações para reforçar o aprendizado. Faça estes se ainda tive
 | 14 | 2234 | Cachorros-Quentes | [Resolver](https://judge.beecrowd.com/pt/problems/view/2234) |
 | 15 | 2748 | Saida 2 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2748) |
 | 16 | 2749 | Saida 3 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2749) |
-| 17 | 2753 | Saida 7 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2753) |
+| 17 | 2752 | Saida 6 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2752) |
+| 18 | 2753 | Saida 7 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2753) |
+| 19 | 2755 | Saida 9 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2755) |
+| 20 | 2756 | Saida 10 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2756) |
+| 21 | 2762 | Entrada e Saida 6 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2762) |
 
 ---
 
@@ -58,10 +62,6 @@ Combinação de conceitos e problemas mais elaborados.
 | 2 | 1018 | Cedulas | [Resolver](https://judge.beecrowd.com/pt/problems/view/1018) |
 | 3 | 1021 | Notas e Moedas | [Resolver](https://judge.beecrowd.com/pt/problems/view/1021) |
 | 4 | 2750 | Saida 4 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2750) |
-| 5 | 2752 | Saida 6 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2752) |
-| 6 | 2765 | Entrada e Saida com Virgula | [Resolver](https://judge.beecrowd.com/pt/problems/view/2765) |
-| 7 | 2754 | Saida 8 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2754) |
-| 8 | 2755 | Saida 9 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2755) |
-| 9 | 2756 | Saida 10 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2756) |
-| 10 | 2762 | Entrada e Saida 6 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2762) |
-| 11 | 2764 | Entrada e Saida de Data | [Resolver](https://judge.beecrowd.com/pt/problems/view/2764) |
+| 5 | 2754 | Saida 8 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2754) |
+| 6 | 2764 | Entrada e Saida de Data | [Resolver](https://judge.beecrowd.com/pt/problems/view/2764) |
+| 7 | 2765 | Entrada e Saida com Virgula | [Resolver](https://judge.beecrowd.com/pt/problems/view/2765) |

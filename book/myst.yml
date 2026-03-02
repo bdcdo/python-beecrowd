@@ -7,17 +7,17 @@ project:
   toc:
     - file: intro.ipynb
     - file: como_usar.ipynb
-    - title: "M1 — Variáveis e Operações"
+    - title: "Módulo 1 — Variáveis e Operações"
       children:
         - file: m1_variaveis_e_operacoes/conceitos_print_input.ipynb
         - file: m1_variaveis_e_operacoes/conceitos_operacoes.ipynb
         - file: m1_variaveis_e_operacoes/exercicios.md
-    - title: "M2 — Condicionais"
+    - title: "Módulo 2 — Condicionais"
       children:
         - file: m2_condicionais/conceitos_if_else.ipynb
         - file: m2_condicionais/conceitos_logica.ipynb
         - file: m2_condicionais/exercicios.md
-    - title: "M3 — Listas e Strings"
+    - title: "Módulo 3 — Listas e Strings"
       children:
         - file: m3_listas_e_strings/conceitos_listas.ipynb
         - file: m3_listas_e_strings/conceitos_strings.ipynb
