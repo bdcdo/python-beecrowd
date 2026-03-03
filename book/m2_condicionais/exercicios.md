@@ -1,6 +1,6 @@
 # Módulo 2 — Exercícios: Condicionais
 
-Pratique **condicionais, operadores lógicos e padrões de decisão** com 29 problemas do Beecrowd organizados por nível.
+Pratique **condicionais, operadores lógicos e padrões de decisão** com 25 problemas do Beecrowd organizados por nível.
 
 ---
 
@@ -15,10 +15,9 @@ Decisões simples com if/else e comparações diretas.
 | 3 | 1037 | Intervalo | [Resolver](https://judge.beecrowd.com/pt/problems/view/1037) |
 | 4 | 1038 | Lanche | [Resolver](https://judge.beecrowd.com/pt/problems/view/1038) |
 | 5 | 1041 | Coordenadas de um Ponto | [Resolver](https://judge.beecrowd.com/pt/problems/view/1041) |
-| 6 | 1043 | Triangulo | [Resolver](https://judge.beecrowd.com/pt/problems/view/1043) |
-| 7 | 1046 | Tempo de Jogo | [Resolver](https://judge.beecrowd.com/pt/problems/view/1046) |
-| 8 | 2344 | Notas da Prova | [Resolver](https://judge.beecrowd.com/pt/problems/view/2344) |
-| 9 | 2702 | Escolha Dificil | [Resolver](https://judge.beecrowd.com/pt/problems/view/2702) |
+| 6 | 1046 | Tempo de Jogo | [Resolver](https://judge.beecrowd.com/pt/problems/view/1046) |
+| 7 | 2344 | Notas da Prova | [Resolver](https://judge.beecrowd.com/pt/problems/view/2344) |
+| 8 | 2702 | Escolha Dificil | [Resolver](https://judge.beecrowd.com/pt/problems/view/2702) |
 
 ---
 
@@ -28,16 +27,14 @@ Prática com variações de condicionais para reforçar o aprendizado. Faça est
 
 | # | ID | Nome | Link |
 |---|---:|------|------|
-| 1 | 1044 | Multiplos | [Resolver](https://judge.beecrowd.com/pt/problems/view/1044) |
-| 2 | 1048 | Aumento de Salario | [Resolver](https://judge.beecrowd.com/pt/problems/view/1048) |
-| 3 | 1050 | DDD | [Resolver](https://judge.beecrowd.com/pt/problems/view/1050) |
-| 4 | 1052 | Mes | [Resolver](https://judge.beecrowd.com/pt/problems/view/1052) |
-| 5 | 1061 | Tempo de um Evento | [Resolver](https://judge.beecrowd.com/pt/problems/view/1061) |
-| 6 | 1914 | De Quem e a Vez? | [Resolver](https://judge.beecrowd.com/pt/problems/view/1914) |
-| 7 | 2006 | Identificando o Cha | [Resolver](https://judge.beecrowd.com/pt/problems/view/2006) |
-| 8 | 2057 | Fuso Horario | [Resolver](https://judge.beecrowd.com/pt/problems/view/2057) |
-| 9 | 2780 | Basquete de Robos | [Resolver](https://judge.beecrowd.com/pt/problems/view/2780) |
-| 10 | 2787 | Xadrez | [Resolver](https://judge.beecrowd.com/pt/problems/view/2787) |
+| 1 | 1043 | Triangulo | [Resolver](https://judge.beecrowd.com/pt/problems/view/1043) |
+| 2 | 1044 | Multiplos | [Resolver](https://judge.beecrowd.com/pt/problems/view/1044) |
+| 3 | 1048 | Aumento de Salario | [Resolver](https://judge.beecrowd.com/pt/problems/view/1048) |
+| 4 | 1050 | DDD | [Resolver](https://judge.beecrowd.com/pt/problems/view/1050) |
+| 5 | 1052 | Mes | [Resolver](https://judge.beecrowd.com/pt/problems/view/1052) |
+| 6 | 2006 | Identificando o Cha | [Resolver](https://judge.beecrowd.com/pt/problems/view/2006) |
+| 7 | 2780 | Basquete de Robos | [Resolver](https://judge.beecrowd.com/pt/problems/view/2780) |
+| 8 | 2787 | Xadrez | [Resolver](https://judge.beecrowd.com/pt/problems/view/2787) |
 
 ---
 
@@ -55,5 +52,4 @@ Combinação de conceitos: condicionais aninhados, cálculo por faixas e lógica
 | 6 | 1049 | Animal | [Resolver](https://judge.beecrowd.com/pt/problems/view/1049) |
 | 7 | 1051 | Imposto de Renda | [Resolver](https://judge.beecrowd.com/pt/problems/view/1051) |
 | 8 | 2059 | Impar, Par ou Roubo | [Resolver](https://judge.beecrowd.com/pt/problems/view/2059) |
-| 9 | 2313 | Qual Triangulo | [Resolver](https://judge.beecrowd.com/pt/problems/view/2313) |
-| 10 | 2670 | Maquina de Cafe | [Resolver](https://judge.beecrowd.com/pt/problems/view/2670) |
+| 9 | 2670 | Maquina de Cafe | [Resolver](https://judge.beecrowd.com/pt/problems/view/2670) |

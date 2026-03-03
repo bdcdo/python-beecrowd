@@ -1,6 +1,6 @@
 # Módulo 1 — Exercícios: Variáveis e Operações
 
-Pratique os conceitos de **variáveis, entrada/saída, operações aritméticas e formatação** com 37 problemas do Beecrowd organizados por nível.
+Pratique os conceitos de **variáveis, entrada/saída, operações aritméticas e formatação** com 40 problemas do Beecrowd organizados por nível.
 
 ---
 
@@ -49,6 +49,7 @@ Prática com variações para reforçar o aprendizado. Faça estes se ainda tive
 | 19 | 2755 | Saida 9 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2755) |
 | 20 | 2756 | Saida 10 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2756) |
 | 21 | 2762 | Entrada e Saida 6 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2762) |
+| 22 | 2759 | Entrada e Saida de Caracter | [Resolver](https://judge.beecrowd.com/pt/problems/view/2759) |
 
 ---
 
@@ -61,7 +62,9 @@ Combinação de conceitos e problemas mais elaborados.
 | 1 | 1015 | Distancia Entre Dois Pontos | [Resolver](https://judge.beecrowd.com/pt/problems/view/1015) |
 | 2 | 1018 | Cedulas | [Resolver](https://judge.beecrowd.com/pt/problems/view/1018) |
 | 3 | 1021 | Notas e Moedas | [Resolver](https://judge.beecrowd.com/pt/problems/view/1021) |
-| 4 | 2750 | Saida 4 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2750) |
-| 5 | 2754 | Saida 8 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2754) |
-| 6 | 2764 | Entrada e Saida de Data | [Resolver](https://judge.beecrowd.com/pt/problems/view/2764) |
-| 7 | 2765 | Entrada e Saida com Virgula | [Resolver](https://judge.beecrowd.com/pt/problems/view/2765) |
+| 4 | 1061 | Tempo de um Evento | [Resolver](https://judge.beecrowd.com/pt/problems/view/1061) |
+| 5 | 2057 | Fuso Horario | [Resolver](https://judge.beecrowd.com/pt/problems/view/2057) |
+| 6 | 2750 | Saida 4 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2750) |
+| 7 | 2754 | Saida 8 | [Resolver](https://judge.beecrowd.com/pt/problems/view/2754) |
+| 8 | 2764 | Entrada e Saida de Data | [Resolver](https://judge.beecrowd.com/pt/problems/view/2764) |
+| 9 | 2765 | Entrada e Saida com Virgula | [Resolver](https://judge.beecrowd.com/pt/problems/view/2765) |
