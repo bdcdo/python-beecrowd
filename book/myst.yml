@@ -22,6 +22,11 @@ project:
         - file: m3_listas_e_strings/conceitos_listas.ipynb
         - file: m3_listas_e_strings/conceitos_strings.ipynb
         - file: m3_listas_e_strings/exercicios.md
+    - title: "Módulo 4 — Loops"
+      children:
+        - file: m4_loops/conceitos_for_range.ipynb
+        - file: m4_loops/conceitos_while_break.ipynb
+        - file: m4_loops/exercicios.md
 
 site:
   title: Introdução a Python com Beecrowd
